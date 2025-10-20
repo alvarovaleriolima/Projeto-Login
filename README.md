@@ -1,2 +1,2 @@
 # Projeto-Login
- Primeiro projeto de tela de login
+ Primeiro projeto de tela de login responsivo.
